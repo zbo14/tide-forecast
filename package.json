@@ -1,0 +1,20 @@
+{
+  "name": "tide-forecast",
+  "version": "1.0.0",
+  "description": "Write a simple web scraper to help us visit the tide pools",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./index.js",
+    "test": "mocha --reporter spec"
+  },
+  "keywords": [
+    "web-scraping"
+  ],
+  "author": "Zachary Balder",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^4.1.2",
+    "mocha": "^5.0.0",
+    "request": "^2.83.0"
+  }
+}

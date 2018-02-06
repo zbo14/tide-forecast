@@ -1,0 +1,145 @@
+{
+  "beach": "wrightsville-beach",
+  "lowTides": [
+    {
+      "date": "Monday 5 February",
+      "time": " 5:22 PM",
+      "height": "-0.14 m"
+    },
+    {
+      "date": "Thursday 8 February",
+      "time": " 8:00 AM",
+      "height": "0.08 m"
+    },
+    {
+      "date": "Friday 9 February",
+      "time": " 8:55 AM",
+      "height": "0.09 m"
+    },
+    {
+      "date": "Saturday 10 February",
+      "time": " 9:44 AM",
+      "height": "0.07 m"
+    },
+    {
+      "date": "Sunday 11 February",
+      "time": "10:29 AM",
+      "height": "0.05 m"
+    },
+    {
+      "date": "Monday 12 February",
+      "time": "11:13 AM",
+      "height": "0.01 m"
+    },
+    {
+      "date": "Tuesday 13 February",
+      "time": "11:57 AM",
+      "height": "-0.04 m"
+    },
+    {
+      "date": "Wednesday 14 February",
+      "time": "12:38 PM",
+      "height": "-0.09 m"
+    },
+    {
+      "date": "Thursday 15 February",
+      "time": " 1:17 PM",
+      "height": "-0.13 m"
+    },
+    {
+      "date": "Friday 16 February",
+      "time": " 1:54 PM",
+      "height": "-0.16 m"
+    },
+    {
+      "date": "Saturday 17 February",
+      "time": " 2:29 PM",
+      "height": "-0.17 m"
+    },
+    {
+      "date": "Sunday 18 February",
+      "time": " 3:04 PM",
+      "height": "-0.17 m"
+    },
+    {
+      "date": "Monday 19 February",
+      "time": " 3:39 PM",
+      "height": "-0.16 m"
+    },
+    {
+      "date": "Tuesday 20 February",
+      "time": " 4:19 PM",
+      "height": "-0.14 m"
+    },
+    {
+      "date": "Wednesday 21 February",
+      "time": " 5:07 PM",
+      "height": "-0.11 m"
+    },
+    {
+      "date": "Friday 23 February",
+      "time": " 7:13 AM",
+      "height": "0.03 m"
+    },
+    {
+      "date": "Saturday 24 February",
+      "time": " 8:23 AM",
+      "height": "-0.01 m"
+    },
+    {
+      "date": "Sunday 25 February",
+      "time": " 9:24 AM",
+      "height": "-0.07 m"
+    },
+    {
+      "date": "Monday 26 February",
+      "time": "10:22 AM",
+      "height": "-0.14 m"
+    },
+    {
+      "date": "Tuesday 27 February",
+      "time": "11:18 AM",
+      "height": "-0.21 m"
+    },
+    {
+      "date": "Wednesday 28 February",
+      "time": "12:11 PM",
+      "height": "-0.27 m"
+    },
+    {
+      "date": "Thursday 1 March",
+      "time": " 1:01 PM",
+      "height": "-0.31 m"
+    },
+    {
+      "date": "Friday 2 March",
+      "time": " 1:48 PM",
+      "height": "-0.33 m"
+    },
+    {
+      "date": "Saturday 3 March",
+      "time": " 2:31 PM",
+      "height": "-0.30 m"
+    },
+    {
+      "date": "Sunday 4 March",
+      "time": " 3:13 PM",
+      "height": "-0.25 m"
+    },
+    {
+      "date": "Monday 5 March",
+      "time": " 3:54 PM",
+      "height": "-0.17 m"
+    },
+    {
+      "date": "Tuesday 6 March",
+      "time": " 4:37 PM",
+      "height": "-0.08 m"
+    },
+    {
+      "date": "Wednesday 7 March",
+      "time": " 5:26 PM",
+      "height": "0.02 m"
+    }
+  ]
+}
