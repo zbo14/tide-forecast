@@ -21,7 +21,7 @@ Clone the repository and `npm i`
 
 `npm start`
 
-This should print the output in the terminal window and write the daylight low tides to the json files in the output directory.
+This should print the output in the terminal window and write the daylight low tides to the json files in the output directory (there's sample output already there).
 
 ### Test
 

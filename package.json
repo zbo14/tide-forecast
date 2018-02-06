@@ -7,9 +7,6 @@
     "start": "node ./index.js",
     "test": "mocha --reporter spec"
   },
-  "keywords": [
-    "web-scraping"
-  ],
   "author": "Zachary Balder",
   "license": "ISC",
   "dependencies": {
